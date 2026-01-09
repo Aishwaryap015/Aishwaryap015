@@ -26,10 +26,32 @@ Hi, I’m Aishwarya 👋  <br><br>📊 I’m a Data Analyst and Data Science ent
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
-# 🤖 Machine Learning & Analytics
+## 🤖 Machine Learning & Analytics
+
+---
+
+### 🌲 Classical Machine Learning Models 
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-6A5ACD?style=flat)
+![Clustering](https://img.shields.io/badge/Clustering-FF8C00?style=flat)
+
+---
+
+### 🗣️ Natural Language Processing (Basic)
+
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat)
+![Text Processing](https://img.shields.io/badge/Text%20Processing-4682B4?style=flat)
+
+---
+
+### 🧠 Deep Learning (Foundational)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNNs-8A2BE2?style=flat)
+
 
 ## 🗄️ Databases & Big Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
