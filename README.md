@@ -30,12 +30,25 @@ Hi, I’m Aishwarya 👋  <br><br>📊 I’m a Data Analyst and Data Science ent
 
 ---
 
-### 🌲 Classical Machine Learning Models 
+### 🌲 Classical Models
 
+<!-- Core -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat)
+
+<!-- Supervised ML -->
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4169E1?style=flat)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-8B0000?style=flat)
 ![Decision Tree](https://img.shields.io/badge/Decision%20Tree-6A5ACD?style=flat)
-![Clustering](https://img.shields.io/badge/Clustering-FF8C00?style=flat)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat)
+![SVM](https://img.shields.io/badge/SVM-4682B4?style=flat)
+
+<!-- Unsupervised ML -->
+![K--Means](https://img.shields.io/badge/K--Means-FF8C00?style=flat)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-20B2AA?style=flat)
+![PCA](https://img.shields.io/badge/PCA-8A2BE2?style=flat)
+
+<!-- Reinforcement Learning -->
+![Q--Learning](https://img.shields.io/badge/Q--Learning-2E8B57?style=flat)
 
 ---
 
