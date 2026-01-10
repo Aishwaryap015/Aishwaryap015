@@ -3,11 +3,12 @@ Hi, I’m Aishwarya 👋  <br><br>📊 I’m a Data Analyst and Data Science ent
 
 
 ## 🌐 Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=Quora&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white)
-![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-priydarshni)
+[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/arya_stark015)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=Quora&logoColor=white)](https://www.quora.com/profile/Arya-Stark-807)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Business_Worker1908)
+
 
 # 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
